@@ -26,5 +26,5 @@
 
 如果感觉使用起来还不错，欢迎师傅赏个 star ！！！
 
-[![Stargazers over time](https://starchart.cc/id88/HelloFlask.svg)](https://starchart.cc/id88/HelloFlask)
+![Stargazers over time](https://starchart.cc/id88/HelloFlask.svg)
 
